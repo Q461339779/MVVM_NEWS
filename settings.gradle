@@ -1,0 +1,2 @@
+include ':app', ':network', ':news', ':xiangxuewebview'
+rootProject.name='MVVM_NEWS'
